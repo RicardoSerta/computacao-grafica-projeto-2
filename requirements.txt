@@ -1,0 +1,5 @@
+wgpu==0.32.0
+rendercanvas==2.7.2
+glfw==2.10.2
+numpy>=1.24,<3
+Pillow>=10,<13
